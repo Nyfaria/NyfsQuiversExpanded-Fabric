@@ -1,0 +1,6 @@
+{
+	"parent": "nyfsquiver:back/quiver_noarrows",
+	"textures": {
+		"texture": "nyfsquiversexpanded:back/iron_netherite_quiver"
+	}
+}

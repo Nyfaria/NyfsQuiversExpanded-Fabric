@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "UUF",
+    "UBU",
+    "UUU"
+  ],
+  "key": {
+    "U": {
+      "item": "aquaculture:neptunium_ingot"
+    },
+    "B": {
+      "item": "nyfsquiver:netherite_quiver"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "nyfsquiversexpanded:neptunium_quiver"
+  }
+}

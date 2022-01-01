@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nyfsquiversexpanded:item/emerald_netherite_quiver"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "nyfsquiver:equipped": 1,
+        "nyfsquiver:arrows": 0
+      },
+      "model": "nyfsquiversexpanded:back/emerald_netherite_quiver"
+    },
+    {
+      "predicate": {
+        "nyfsquiver:equipped": 1,
+        "nyfsquiver:arrows": 1
+      },
+      "model": "nyfsquiversexpanded:back/emerald_netherite_quiver_noarrows"
+    }
+  ]
+}

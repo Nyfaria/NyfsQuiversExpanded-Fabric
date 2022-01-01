@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nyfsquiversexpanded:item/neptunium_quiver"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "nyfsquiver:equipped": 1,
+        "nyfsquiver:arrows": 0
+      },
+      "model": "nyfsquiversexpanded:back/neptunium_quiver_quiver"
+    },
+    {
+      "predicate": {
+        "nyfsquiver:equipped": 1,
+        "nyfsquiver:arrows": 1
+      },
+      "model": "nyfsquiversexpanded:back/neptunium_quiver_quiver_noarrows"
+    }
+  ]
+}

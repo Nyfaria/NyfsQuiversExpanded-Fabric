@@ -1,0 +1,6 @@
+{
+	"parent": "nyfsquiver:back/quiver_noarrows",
+	"textures": {
+		"texture": "nyfsquiversexpanded:back/gold_netherite_quiver"
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "UUF",
+    "UBU",
+    "UUU"
+  ],
+  "key": {
+    "U": {
+      "tag": "forge:ingots/silver"
+    },
+    "B": {
+      "item": "nyfsquiver:iron_quiver"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "nyfsquiversexpanded:silver_quiver"
+  }
+}

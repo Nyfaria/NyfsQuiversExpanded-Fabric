@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "nyfsquiversexpanded:emerald_netherite_quiver"
+  },
+  "addition": {
+    "item": "advancednetherite:netherite_diamond_ingot"
+  },
+  "result": {
+    "item": "nyfsquiversexpanded:diamond_netherite_quiver"
+  }
+}

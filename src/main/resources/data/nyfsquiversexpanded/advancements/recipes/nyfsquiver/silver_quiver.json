@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nyfsquiversexpanded:silver_quiver"
+    ]
+  },
+  "criteria": {
+    "has_moss": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:ingots/silver"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "nyfsquiversexpanded:silver_quiver"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_moss",
+      "has_the_recipe"
+    ]
+  ]
+}

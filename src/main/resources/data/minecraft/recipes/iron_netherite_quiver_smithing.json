@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "nyfsquiver:netherite_quiver"
+  },
+  "addition": {
+    "item": "advancednetherite:netherite_iron_ingot"
+  },
+  "result": {
+    "item": "nyfsquiversexpanded:iron_netherite_quiver"
+  }
+}
